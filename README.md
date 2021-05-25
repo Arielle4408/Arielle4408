@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @Arielle4408!
+- 👀 I’m interested in computer programming, writing and astronomy.
+- 🌱 I’m currently learning JavaScript! I just finished a short course on that, as well as several on HTML and CSS.
+- 💞️ I’m not looking to collaborate at the moment,.
+- 📫 How to reach me - I'm not sure why you'd be trying to reach me.
